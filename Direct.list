@@ -3,6 +3,21 @@
 # MyList
 # 域名后缀匹配
 DOMAIN-SUFFIX,shuigs.ddns.net
+# 域名关键字匹配
+DOMAIN-SUFFIX,manual.gromacs.org
+DOMAIN-KEYWORD,sci-hub
+DOMAIN-SUFFIX,ccdc.cam.ac.uk
+DOMAIN-KEYWORD,wiley
+DOMAIN-KEYWORD,pubs
+DOMAIN-KEYWORD,docs
+DOMAIN-SUFFIX,digicert.com
+DOMAIN-SUFFIX,iresearchbook.cn
+DOMAIN-SUFFIX,elsevier.com
+DOMAIN-SUFFIX,nature.com
+DOMAIN-SUFFIX,webofknowledge.com
+DOMAIN-SUFFIX,pubs.acs.org
+DOMAIN-SUFFIX,scitation.org
+DOMAIN-KEYWORD,sciencedirectassets
 
 
 
